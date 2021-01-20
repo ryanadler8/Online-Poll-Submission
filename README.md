@@ -1,7 +1,12 @@
 # Online Poll Submission
 How to use a Python script to enter in entries to an online poll.
-
 Created this script for some friends to help them win an online contest for a school project. 
+## Setup - Packages
+  - **Selenium** (https://selenium-python.readthedocs.io/)
+  - **Chromedriver_autoinstaller** (https://chromedriver.chromium.org/getting-started)
+  - **Time** (https://docs.python.org/3/library/time.html)
+  - **Pandas** (https://pandas.pydata.org/)
+  - **Random** (https://docs.python.org/3/library/random.html)
 
 ## Obstacles
   + **Time** - selenium may run faster than your webbrowser.
@@ -10,9 +15,4 @@ Created this script for some friends to help them win an online contest for a sc
                           Use this link for other ways to locate the element. (https://selenium-python.readthedocs.io/locating-elements.html)
   + **Submission intervals** - Don't want to enter in to many submissions to quickly. 
   
-## Setup - Packages
-  - **Selenium** (https://selenium-python.readthedocs.io/)
-  - **Chromedriver_autoinstaller** (https://chromedriver.chromium.org/getting-started)
-  - **Time** (https://docs.python.org/3/library/time.html)
-  - **Pandas** (https://pandas.pydata.org/)
-  - **Random** (https://docs.python.org/3/library/random.html)
+
