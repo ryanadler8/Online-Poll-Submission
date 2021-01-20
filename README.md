@@ -1,4 +1,4 @@
-# OnlinePollSubmission
+# Online Poll Submission
 How to use a Python script to enter in entries to an online poll.
 
 Created this script for some friends to help them win an online contest for a school project. 
