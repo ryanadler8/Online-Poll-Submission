@@ -11,8 +11,8 @@ Created this script for some friends to help them win an online contest for a sc
   + **Submission intervals** - Don't want to enter in to many submissions to quickly. 
   
 ## Setup - Packages
-  - **Selenium (https://selenium-python.readthedocs.io/)
-  - **Chromedriver_autoinstaller (https://chromedriver.chromium.org/getting-started)
-  - **Time (https://docs.python.org/3/library/time.html)
-  - **Pandas (https://pandas.pydata.org/)
-  - **Random (https://docs.python.org/3/library/random.html)
+  - **Selenium** (https://selenium-python.readthedocs.io/)
+  - **Chromedriver_autoinstaller** (https://chromedriver.chromium.org/getting-started)
+  - **Time** (https://docs.python.org/3/library/time.html)
+  - **Pandas** (https://pandas.pydata.org/)
+  - **Random** (https://docs.python.org/3/library/random.html)
